@@ -16,7 +16,7 @@
   
 2. Запустите команду `docker compose up` с указанием значения переменной окружения `DB_DIR` пути до папки, где будут храниться данные БД из контейнера, например:
 
-   `//DB_DIR=/home/user/docker/ docker compose up`
+   `DB_DIR=/home/user/docker/ docker compose up`
 3. Документация Swagger доступна по [ссылке](http://localhost:8080/swagger-ui/index.html#/)
 
 4. Протестировать API можно по [ссылке](https://web.postman.co/workspace/4400b487-b6e8-4775-87b2-e58386bc8aae/documentation/37529477-e2c18649-52fd-43ff-a7bd-c211eff84638)
