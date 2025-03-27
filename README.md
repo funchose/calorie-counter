@@ -19,7 +19,9 @@
    `DB_DIR=/home/user/docker/ docker compose up`
 3. Документация Swagger доступна по [ссылке](http://localhost:8080/swagger-ui/index.html#/)
 
-4. Протестировать API можно по [ссылке](https://web.postman.co/workspace/4400b487-b6e8-4775-87b2-e58386bc8aae/documentation/37529477-e2c18649-52fd-43ff-a7bd-c211eff84638)
+4. Протестировать API можно с помощью Postman:
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/37529477-e0b82403-ff30-497e-b578-dc42d569897e?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D37529477-e0b82403-ff30-497e-b578-dc42d569897e%26entityType%3Dcollection%26workspaceId%3D65e1c2be-d95e-4612-9179-10ceabcea9f7)
 
 Приложение при запуске создаст пустую таблицу в базе данных. К базе данных можно подключиться по порту 5433.
 
